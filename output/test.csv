@@ -1,0 +1,2 @@
+N;K;MissOptimal;MissNaive;MissFIFO;MissLIFO;TimeOptimal(ms);TimeNaive(ms);TimeFIFO(ms);TimeLIFO(ms)
+1000;10;450;450;755;763;4,513;3,785;0,322;0,448
